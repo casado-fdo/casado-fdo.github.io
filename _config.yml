@@ -16,19 +16,22 @@
 title: Fernando E. Casado
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello world!
-#twitter_username: username
+  AI and robotics researcher with 7+ years of experience developing machine learning solutions and robotic systems. Currently Research Associate at Imperial College London.
 github_username: casado-fdo
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+locale: "en-UK"
+teaser: "/assets/images/logo.png" # image path for meta tags and feed
+#logo: "/assets/images/logo.png"
+masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
+atom_feed:
+  hide: true # true, false (default)
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -58,16 +61,9 @@ plugins:
 author:
   name   : "Fernando Estévez Casado"
   avatar : "/assets/images/bio-photo-fec.png"
-  bio    : "Research Associate at Imperial College London | ML and Robotics."
+  bio    : "Research Associate at Imperial College London — ML and Robotics."
+  location: "London, UK"
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    - label: "London, UK"
-      icon: "fas fa-fw fa-map-marker-alt"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fe-casado/"
@@ -75,23 +71,12 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=-jlMScsAAAAJ&sortby=pubdate"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:casado.fdo@gmail.com"
 
-footer:
-  links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -105,12 +90,22 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      header:
+        image: /assets/images/web-header.jpg
+      author_profile: true
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
+      header:
+        image: /assets/images/web-header-small.jpg
       author_profile: true
 
 category_archive:
