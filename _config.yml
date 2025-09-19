@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   AI and robotics researcher with 7+ years of experience developing machine learning solutions and robotic systems. Currently Research Associate at Imperial College London.
 github_username: casado-fdo
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
+search: false
 locale: "en-UK"
 teaser: "/assets/images/logo.png" # image path for meta tags and feed
 #logo: "/assets/images/logo.png"
