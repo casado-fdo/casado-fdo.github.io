@@ -23,7 +23,7 @@ search: true
 locale: "en-UK"
 teaser: "/assets/images/logo.png" # image path for meta tags and feed
 #logo: "/assets/images/logo.png"
-masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Fernando E. Casado" # overrides the website title displayed in the masthead, use " " for no title
 atom_feed:
   hide: true # true, false (default)
 
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Fernando Estévez Casado"
   avatar : "/assets/images/bio-photo-fec.png"
-  bio    : "Research Associate at Imperial College London — ML and Robotics."
+  bio    : "Research Associate at Imperial College London — ML & Robotics"
   location: "London, UK"
   links:
     - label: "LinkedIn"
