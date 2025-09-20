@@ -4,11 +4,17 @@ title: "Research Projects"
 permalink: /projects/
 ---
 
+<style>
+.projects-table {
+    font-size: 1.3em;
+}
+</style>
 
+<div class="projects-table">
 <table>
 <tr>
-<td style="width:60px; vertical-align:top;">
-<img src="/assets/images/informed_ai_logo.jpeg" alt="INFORMED-AI Logo" style="height:45px;">
+<td style="width:65px; vertical-align:top;">
+<img src="/assets/images/informed_ai_logo.jpeg" alt="INFORMED-AI Logo" style="height:42px;">
 </td>
 <td>
 <strong><a href="http://informed-ai.net">INFORMED-AI</a> (2024–ongoing)</strong><br>
@@ -17,8 +23,8 @@ UKRI-funded AI research hub conducted jointly by four UK universities: Bristol, 
 </tr>
 
 <tr>
-<td style="width:60px; vertical-align:top;">
-<img src="/assets/images/trust_node_logo.png" alt="Trust Node Logo" style="height:45px;">
+<td style="width:65px; vertical-align:top;">
+<img src="/assets/images/trust_node_logo.png" alt="Trust Node Logo" style="height:42px;">
 </td>
 <td>
 <strong><a href="https://trust.tas.ac.uk">UKRI TAS Node on Trust</a> (2023–2024)</strong><br>
@@ -27,8 +33,8 @@ UKRI-funded multidisciplinary project in collaboration with the University of Ma
 </tr>
 
 <tr>
-<td style="width:60px; vertical-align:top;">
-<img src="/assets/images/citiususc_logo.jpeg" alt="Federated Learning Logo" style="height:45px;">
+<td style="width:65px; vertical-align:top;">
+<img src="/assets/images/citiususc_logo.jpeg" alt="Federated Learning Logo" style="height:42px;">
 </td>
 <td>
 <strong><a href="https://citius.gal/research/projects/aprendizaxe-federada-e-continua-a-partir-de-datos-heteroxeneos-en-dispositivos-e-robots/">Federated and Continual Learning</a> (2021–2023)</strong><br>
@@ -36,3 +42,4 @@ Spanish government-funded project during my PhD, developing federated learning s
 </td>
 </tr>
 </table>
+</div>
