@@ -48,24 +48,21 @@ You can download my CV here: [Download PDF](/assets/docs/Fernando_Casado_CV.pdf)
 ### PhD in Computer Science  (ML)  
 **University of Santiago de Compostela**  
 *Santiago de Compostela, Spain | 2018 – 2022*  
-- Graduated with honours (*cum laude*).  
-- Research focused on federated and continual learning for distributed AI systems.  
+- Research focused on continual federated learning for distributed AI systems. Graduated with honours (*cum laude*).  
 
 ---
 
 ### MSc in Artificial Intelligence Research  
 **Menéndez Pelayo International University**  
 *Santander / Santiago, Spain | 2017 – 2018*  
-- Specialised in Data Science and Machine Learning.  
-- GPA: 9.6/10.  
+- Specialised in Machine Learning. GPA: 9.6/10.  
 
 ---
 
 ### BSc in Computer Science  
 **University of Santiago de Compostela**  
 *Santiago de Compostela, Spain | 2013 – 2017*  
-- Best Academic Record and Best Thesis Award.  
-- GPA: 8.7/10.  
+- Best Academic Record and Best Thesis Award. GPA: 8.7/10.  
 
 
 ---
