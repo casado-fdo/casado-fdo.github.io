@@ -10,9 +10,13 @@ permalink: /videos/
 Control a dual-arm robotic wheelchair using a standard joystick. Demonstrates intuitive pick-and-place tasks while optimizing ergonomics and task efficiency.  
 <iframe width="560" height="315" src="https://youtube.com/embed/hHG_B-hOa8A" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
 
+**Teleoperating Spot with Arm using Hand Tracking**  
+Demo of a Boston Dynamics Spot with a Kinova Gen3 arm and Inspire-Robots hand, controlled entirely through a Leap Motion sensor. The interface maps both human hands to the robot, enabling smooth demonstrations of complex tasks with 25 DoF.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcRkVjVtgfw" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
+
 **First VS Third-Person Perspective for Imitation Learning**  
 Compare first- and third-person teleoperation interfaces for training a robot on bimanual tasks (shoelace insertion).  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jSUYrmUMLFE" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSUYrmUMLFE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -24,7 +28,7 @@ Showcases a 3D eye-gaze tracking system to analyze human trust in robots. Demons
 
 **Augmented-Reality Multi-User Interface for spatial HRI**  
 Demonstrates an AR interface for multi-user human-robot interaction. Highlights trust calibration across different interaction scenarios with a quadruped robot.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK19JpjVCs0" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK19JpjVCs0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>  
 
 ---
 
