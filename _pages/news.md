@@ -42,5 +42,4 @@ Our paper *Interface Matters: Comparing First and Third-Person Perspective Inter
 
 - Our paper *Shared Control for Mobile Bimanual Manipulation on a Robotic Wheelchair* has been accepted at **IEEE RO-MAN 2025**!  
 
-- Started this logbook.  
-  From now on I will keep it updated with my main activities and achievements 🙂.  
+- Started this logbook to share updates 🙂.  
