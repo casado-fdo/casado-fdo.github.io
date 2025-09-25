@@ -8,7 +8,7 @@ permalink: /videos/
 
 Shared Control for a Robotic Wheelchair with Two Arms 
 : Control a dual-arm robotic wheelchair using a standard joystick. Demonstrates intuitive pick-and-place tasks while optimizing ergonomics and task efficiency.
-<iframe width="560" height="315" src="https://youtube.com/embed/hHG_B-hOa8A" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://youtube.com/embed/irhu15awmE4" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
 
 Teleoperating Spot with Arm using Hand Tracking 
 : Demo of a Boston Dynamics Spot with a Kinova Gen3 arm and Inspire-Robots hand, controlled entirely through a Leap Motion sensor. The interface maps both human hands to the robot, enabling smooth demonstrations of complex tasks with 25 DoF.  
