@@ -7,6 +7,14 @@ permalink: /news/
 
 ## 2025
 
+
+**October**  
+
+{: .small}
+- **Invited speaker** at the **IEEE UK & Ireland RAS Chapter *Early Career Researcher Seminar***.  
+  [Gave a talk](https://www.ieee-ukandireland.org/wp-content/uploads/2025/09/IEEE-UKI-RAS-Slide-Young-Researcher-Seminar-Series-online.pdf) on *User-Centred Machine Learning for Assistive Robotics*.
+
+
 **September**
 
 {: .small}

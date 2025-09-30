@@ -5,7 +5,8 @@ permalink: /bio/
 ---
 
 {: .notice--info}  
-You can download a PDF version of my CV here: [📄 Download CV](/assets/docs/Fernando_Casado_CV_25_09_21.pdf){: .btn .btn--primary}
+You can download a PDF version of my CV here: <br><br> 
+[📄 Download CV](/assets/docs/CV_FernandoCasado_25_09_30.pdf){: .btn .btn--inverse}
 
 ## Professional Experience  
 

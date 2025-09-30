@@ -50,3 +50,12 @@ Privacy-preserving learning for Smart Wheelchair Mobility
 Explaining my PhD thesis in 3 Minutes – 3MT – USC (Galician)  
 : This short outreach talk (in Galician) was my winning presentation at the University of Santiago de Compostela’s [*Three Minute Thesis* (3TM)](https://www.usc.gal/gl/centro/escola-doutoramento-internacional-usc/4a-edicion-three-minute-thesis-3mtr) competition.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1KNdQynNCK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>  
+
+
+---
+
+## 2021
+
+AI Agent for Smartphone Racing Game (Traffic Rider)  
+: A casual project made just for fun. I trained an AI agent to play the mobile racing game *Traffic Rider* by imitating real players. The agent learns directly from vision-only inputs (game frames), achieving high speeds and high scores while avoiding crashes.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pe00HHfMYWU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
