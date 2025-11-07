@@ -5,11 +5,18 @@ permalink: /publications/
 ---
 
 ## 2025  
+Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance
+:  F. E. Casado, R. C. Quesada, & Y. Demiris  
+  *IEEE Transactions on Robotics*  
+  [📄 *Available online soon*](#){: .btn .btn--inverse}
+  [🎥 Video](https://youtu.be/59b8wfijP-s){: .btn .btn--info}
+  [💻 Code](https://www.imperial.ac.uk/personal-robotics/software/){: .btn .btn--success}  
+
 Toward Shared Control for Mobile Bimanual Manipulation on a Robotic Wheelchair
 : R. Gandhi, F. E. Casado, & Y. Demiris  
   *IEEE Int. Conf. on Robot and Human Interactive Communication (ROMAN)*   
   <small> 📍 Eindhoven, Netherlands </small>    
-  [📄 *Proceedings due*](#){: .btn .btn--inverse}
+  [📄 Paper](https://doi.org/10.1109/RO-MAN63969.2025.11217797){: .btn .btn--primary}
   [🎥 Video](https://youtu.be/hHG_B-hOa8A){: .btn .btn--info}
 
 Interface Matters: Comparing First and Third-Person Perspective Interfaces for Bi-Manual Robot Behavioural Cloning 

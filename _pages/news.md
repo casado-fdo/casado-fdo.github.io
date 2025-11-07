@@ -7,6 +7,13 @@ permalink: /news/
 
 ## 2025
 
+**November**
+
+{: .small}
+- Our paper *Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance* has been accepted at **IEEE Transactions on Robotics (T-RO)**!
+
+- **IEEE RO-MAN 2025 proceedings** are out.  
+Our paper *Toward Shared Control for Mobile Bimanual Manipulation on a Robotic Wheelchair* is now available [here](https://doi.org/10.1109/RO-MAN63969.2025.11217797). 
 
 **October**  
 

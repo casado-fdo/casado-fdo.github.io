@@ -6,6 +6,10 @@ permalink: /videos/
 
 ## 2025
 
+DIWIE: Diffusion-based User Intention Estimation for Wheelchair Assistance  
+: Supplementary video for our T-RO paper *"Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance"*. Shows DIWIE, a multimodal framework that predicts wheelchair user intentions under uncertainty using diffusion models. Includes visual explanations of the system, model architecture, and qualitative results.   
+<iframe width="560" height="315" src="https://youtube.com/embed/59b8wfijP-s" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 Shared Control for a Robotic Wheelchair with Two Arms 
 : Control a dual-arm robotic wheelchair using a standard joystick. Demonstrates intuitive pick-and-place tasks while optimizing ergonomics and task efficiency.
 <iframe width="560" height="315" src="https://youtube.com/embed/irhu15awmE4" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
