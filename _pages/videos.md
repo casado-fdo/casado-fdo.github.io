@@ -8,11 +8,11 @@ permalink: /videos/
 
 Teleoperating a Dual-Arm Wheelchair using Hand Tracking 
 : A demo of a smart robotic wheelchair with two Kinova Gen3 arms and two Inspire-Robots hands, teleoperated using only hand motions via a Leap Motion sensor. The interface enables full control of the 28-DoF platform, including both arms, both hands, and navigation, allowing a single operator to collect high-quality demonstrations for future learning-based assistive behaviours.
-<iframe width="560" height="315" src="https://youtube.com/embed/AieIvrftFZc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/AieIvrftFZc" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
 
 DIWIE: Diffusion-based User Intention Estimation for Wheelchair Assistance  
 : Supplementary video for our T-RO paper *"Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance"*. Shows DIWIE, a multimodal framework that predicts wheelchair user intentions under uncertainty using diffusion models. Includes visual explanations of the system, model architecture, and qualitative results.   
-<iframe width="560" height="315" src="https://youtube.com/embed/59b8wfijP-s" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/59b8wfijP-s" title="YouTube video player" frameborder="0" allowfullscreen></iframe><br>
 
 Shared Control for a Robotic Wheelchair with Two Arms 
 : Control a dual-arm robotic wheelchair using a standard joystick. Demonstrates intuitive pick-and-place tasks while optimizing ergonomics and task efficiency.
