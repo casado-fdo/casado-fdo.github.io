@@ -4,9 +4,6 @@ title: "Bio"
 permalink: /bio/
 ---
 
-{: .notice--info}  
-You can download a PDF version of my CV here: <br><br> 
-[📄 Download CV](/assets/docs/CV_FernandoCasado_25_09_30.pdf){: .btn .btn--inverse}
 
 ## Professional Experience  
 
