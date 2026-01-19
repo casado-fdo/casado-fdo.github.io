@@ -8,7 +8,7 @@ permalink: /publications/
 Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance
 :  F. E. Casado, R. C. Quesada, & Y. Demiris  
   *IEEE Transactions on Robotics*  
-  [📄 *Available online soon*](#){: .btn .btn--inverse}
+  [📄 Paper](https://doi.org/10.1109/TRO.2025.3637101){: .btn .btn--primary}
   [🎥 Video](https://youtu.be/59b8wfijP-s){: .btn .btn--info}
   [💻 Code](https://www.imperial.ac.uk/personal-robotics/software/){: .btn .btn--success}  
 
