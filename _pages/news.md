@@ -20,7 +20,7 @@ Gave a talk and connected with researchers from the Erlangen AI, Prob_AI and INF
 
 {: .small}
 - **IEEE Transactions on Robotics (T-RO)** paper now available.  
-  Our work *Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance* is available [here](https://doi.org/10.1109/TRO.2025.3637101).
+Our work *Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance* is available [here](https://doi.org/10.1109/TRO.2025.3637101).
 
 
 **November**
