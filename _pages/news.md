@@ -5,7 +5,25 @@ permalink: /news/
 
 ---
 
+## 2026
+
+**March**
+
+{: .small}
+
+* Attended the **EPSRC AI Hubs joint event *Mathematical and Computational Foundations of Artificial Intelligence*** at the Isaac Newton Institute in Cambridge.
+  Gave a talk and connected with researchers from the Erlangen AI, Prob_AI and INFORMED-AI hubs.
+
+
 ## 2025
+
+**December**
+
+{: .small}
+
+* **IEEE Transactions on Robotics (T-RO)** paper now available.
+  Our work *Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair Assistance* is available [here](https://doi.org/10.1109/TRO.2025.3637101).
+
 
 **November**
 
