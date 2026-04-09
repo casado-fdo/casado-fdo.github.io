@@ -10,7 +10,7 @@ Navigating Uncertainty: Diffusion-based User Intention Estimation for Wheelchair
   *IEEE Transactions on Robotics*  
   [📄 Paper](https://doi.org/10.1109/TRO.2025.3637101){: .btn .btn--primary}
   [🎥 Video](https://youtu.be/59b8wfijP-s){: .btn .btn--info}
-  [💻 Code](https://www.imperial.ac.uk/personal-robotics/software/){: .btn .btn--success}  
+  [💻 Code](https://github.com/ImperialCollegeLondon/diwie){: .btn .btn--success}  
 
 Toward Shared Control for Mobile Bimanual Manipulation on a Robotic Wheelchair
 : R. Gandhi, F. E. Casado, & Y. Demiris  
